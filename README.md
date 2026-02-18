@@ -48,4 +48,4 @@ Full-stack wildlife tracking system built with Spring Boot and PostgreSQL.
 - Auditing fields (created_at, updated_by)
 - React + Tailwind frontend
 
-🔗 [View Repository](https://github.com/nissubba1/turtle_tracker)
+🔗 [View Repository](https://github.com/nsubba24/turtle_tracker)
